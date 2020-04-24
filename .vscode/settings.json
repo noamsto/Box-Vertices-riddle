@@ -1,4 +1,7 @@
 {
-    "python.pythonPath": "/home/noam/.pyenv/mellanox_riddle/bin/python",
-    "python.formatting.provider": "black"
+    "python.pythonPath": "/Users/noam/.pyenv/mellanox_riddle/bin/python",
+    "python.formatting.provider": "black",
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
