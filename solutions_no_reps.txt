@@ -1,0 +1,2 @@
+Best of generation 30:
+Fitness:0.0000, Solution Vector: [ 8  6  9  7  3 13  2 12  5 11  4 10 14  0 15  1]
